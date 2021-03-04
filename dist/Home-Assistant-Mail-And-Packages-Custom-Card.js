@@ -137,7 +137,7 @@ class MailAndPackagesCard extends LitElement {
     </ul>
     ${deliveries_message
     ? html`
-    <p>${deliveries_message}</p>
+    <p style="text-align:center">${deliveries_message}</p>
     `
     : ""}
     <ul class="items space-center">
