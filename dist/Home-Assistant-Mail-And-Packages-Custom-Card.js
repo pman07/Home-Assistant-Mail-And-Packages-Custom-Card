@@ -267,6 +267,7 @@ class MailAndPackagesCard extends LitElement {
                 .item {
                     flex: 0 1 30%;
                     margin-bottom: .5rem;
+                    text-align: center;
                 }
                 .no-break {
                     white-space: nowrap;
